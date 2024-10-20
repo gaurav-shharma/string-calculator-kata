@@ -1,0 +1,15 @@
+# Ignore node modules
+node_modules/
+
+# Ignore log files
+*.log
+
+# Ignore environment variables (if any)
+.env
+
+# Ignore system files like macOS or Windows specific files
+.DS_Store
+Thumbs.db
+
+# Ignore any other IDE-specific files (e.g., VSCode)
+.vscode/
